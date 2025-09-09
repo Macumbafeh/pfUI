@@ -8,7 +8,7 @@ This is **not** an addon-pack like [ShaguUI](http://shagu.org/ShaguUI/), however
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/pfUI/config.jpg" align="right" width="48.5%">
+<img src="https://github.com/user-attachments/assets/a8038178-822b-4fe6-bdcb-7f24b7d997fa" align="right" width="48.5%">
 <img src="https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/pfUI/unlock.jpg" width="48.5%">
 <img src="https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/pfUI/contrib.jpg" align="right" width="48.5%">
 <img src="https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/pfUI/maraudon.jpg" width="48.5%">

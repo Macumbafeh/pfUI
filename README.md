@@ -9,8 +9,11 @@ This is **not** an addon-pack like [ShaguUI](http://shagu.org/ShaguUI/), however
 ## Screenshots
 
 <img src="https://github.com/user-attachments/assets/a8038178-822b-4fe6-bdcb-7f24b7d997fa" align="right" width="48.5%">
+
 <img src="https://github.com/user-attachments/assets/3be063d4-e725-4355-b999-91e78b1988be" width="48.5%">
+
 <img src="https://github.com/user-attachments/assets/3e09b435-0cb2-4737-83b1-6649d1117897" align="right" width="48.5%">
+
 <img src="https://github.com/user-attachments/assets/a3216311-1017-460d-84ad-909359e81f4d" width="48.5%">
 
 ## Installation (Vanilla)

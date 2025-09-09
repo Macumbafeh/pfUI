@@ -7,11 +7,12 @@ This is **not** an addon-pack like [ShaguUI](http://shagu.org/ShaguUI/), however
 **Please do not re-upload or distribute outdated versions of this project. However, you are more than welcome to fork or link to the official github page.**
 
 ## Screenshots
+![17573952255421349011170270071995]()
 
 <img src="https://github.com/user-attachments/assets/a8038178-822b-4fe6-bdcb-7f24b7d997fa" align="right" width="48.5%">
-<img src="https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/pfUI/unlock.jpg" width="48.5%">
-<img src="https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/pfUI/contrib.jpg" align="right" width="48.5%">
-<img src="https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/pfUI/maraudon.jpg" width="48.5%">
+<img src="https://github.com/user-attachments/assets/3be063d4-e725-4355-b999-91e78b1988be" width="48.5%">
+<img src="https://github.com/user-attachments/assets/3e09b435-0cb2-4737-83b1-6649d1117897" align="right" width="48.5%">
+<img src="https://github.com/user-attachments/assets/a3216311-1017-460d-84ad-909359e81f4d" width="48.5%">
 
 ## Installation (Vanilla)
 1. Download **[Latest Version](https://github.com/shagu/pfUI/archive/master.zip)**

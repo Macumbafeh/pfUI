@@ -7,7 +7,6 @@ This is **not** an addon-pack like [ShaguUI](http://shagu.org/ShaguUI/), however
 **Please do not re-upload or distribute outdated versions of this project. However, you are more than welcome to fork or link to the official github page.**
 
 ## Screenshots
-![17573952255421349011170270071995]()
 
 <img src="https://github.com/user-attachments/assets/a8038178-822b-4fe6-bdcb-7f24b7d997fa" align="right" width="48.5%">
 <img src="https://github.com/user-attachments/assets/3be063d4-e725-4355-b999-91e78b1988be" width="48.5%">
